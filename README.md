@@ -1,2 +1,2 @@
-# vadapav-website
-An HTML Website for local vadapav shop
+# local-snack-website
+An HTML Website for local snack shop
